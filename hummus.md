@@ -1,7 +1,7 @@
 # Hummus
 ## Ingredients
 * chickpeas
-# sesame seeds
+* sesame seeds
 * lemon
 * garlic
 
