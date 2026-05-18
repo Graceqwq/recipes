@@ -3,5 +3,6 @@
 * avocado
 * lemon
 * salt
+* sugar
 ## Instructions
 * prepare the material
