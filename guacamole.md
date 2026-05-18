@@ -6,3 +6,4 @@
 * sugar
 ## Instructions
 * prepare the material
+* add sugar
