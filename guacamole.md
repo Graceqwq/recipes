@@ -5,4 +5,5 @@
 * salt
 * sugar
 ## Instructions
+* prepare the material
 * add salt
