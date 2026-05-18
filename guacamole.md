@@ -5,3 +5,4 @@
 * salt
 * sugar
 ## Instructions
+* add salt
