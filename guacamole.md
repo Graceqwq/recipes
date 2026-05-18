@@ -7,3 +7,5 @@
 ## Instructions
 * prepare the material
 * add sugar
+* add salt
+
